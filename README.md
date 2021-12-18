@@ -8,6 +8,8 @@ A simple example of a robot forwarding posts from one channel to another
   <ul>
     <li><code>python3</code></li>
     <li><code>pyrogram</code></li>
+    <li><code>api-id</code> And <code>api-hash</code> from <a href='https://my.telegram.org/auth'>my.telegram.org/auth</a></li>
+  
   </ul>
  
  **Usage**:
